@@ -1,7 +1,8 @@
 import React from 'react'
 
-export default function() {
-    return <h1> Primeiro componente!</h1>
-}
+export default () => ( //retorna tudo q está dentro do parenteses
+    <h1> Primeiro componente!</h1>
+);
+
 
 
