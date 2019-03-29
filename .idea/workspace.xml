@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af3804e-0a8d-40cb-9a01-fa23a87e1df6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ex/componente.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ex/componente.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex/componente.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ex2/componente.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ex2/index.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +31,7 @@
           <entry key="ico" value="1" />
           <entry key="js" value="4" />
           <entry key="json" value="3" />
-          <entry key="jsx" value="7" />
+          <entry key="jsx" value="10" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
@@ -39,7 +41,7 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="3" />
-          <entry key="JSX Harmony" value="7" />
+          <entry key="JSX Harmony" value="10" />
           <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
@@ -55,7 +57,7 @@
           <entry key="html" value="87" />
           <entry key="js" value="317" />
           <entry key="json" value="13" />
-          <entry key="jsx" value="219" />
+          <entry key="jsx" value="382" />
           <entry key="md" value="23" />
         </counts>
       </usages-collector>
@@ -63,7 +65,7 @@
         <counts>
           <entry key="HTML" value="87" />
           <entry key="JSON" value="13" />
-          <entry key="JSX Harmony" value="219" />
+          <entry key="JSX Harmony" value="382" />
           <entry key="JavaScript" value="317" />
           <entry key="PLAIN_TEXT" value="33" />
         </counts>
@@ -76,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/ex/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -84,20 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex/componente.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -128,8 +121,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/ex1/componente.jsx" />
-        <option value="$PROJECT_DIR$/ex/index.jsx" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/ex/index.jsx" />
         <option value="$PROJECT_DIR$/ex/componente.jsx" />
       </list>
     </option>
@@ -194,6 +187,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programacao\curso react\exercicio_react\ex" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programacao\curso react\exercicio_react\ex" />
     </key>
@@ -220,12 +216,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553791512087</updated>
-      <workItem from="1553791514028" duration="13601000" />
+      <workItem from="1553791514028" duration="14064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13601000" />
+    <option name="totallyTimeSpent" value="14064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -325,13 +321,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex/index.jsx">
+    <entry file="file://$PROJECT_DIR$/ex2/componente.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -342,10 +335,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex2/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex/componente.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
