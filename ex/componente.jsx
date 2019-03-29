@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default props => ( //props envia paramestros de propriedades
-    <h1>{props.value}</h1>
-);
+const Primeiro = props => (
+    <h1> First component</h1>
+)
 
+const Segundo = props => <h2> Second component</h2> //quando só há uma linha, pode passar sem parametros
 
-
+export { Primeiro, Segundo }
